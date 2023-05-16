@@ -1,0 +1,2 @@
+canvasapi==3.0.0
+psycopg3
